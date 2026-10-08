@@ -1,0 +1,6 @@
+{
+  "name": "Ravana Tech | Digital Solution Architect & HUD Reception",
+  "description": "Futuristic JARVIS-inspired Digital Reception and Solution Architect for Ravana Tech. Understands client needs, showcases live conceptual solution demos, and generates intelligent project blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
